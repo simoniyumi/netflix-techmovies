@@ -46,7 +46,7 @@ header nav a:hover{
 /*filme principal*/
 .filme-principal{
     font-size:16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url(https://raw.githubusercontent.com/simoniyumi/netflix-techmovies/master/img/capa-exmachina.jpg);
+    background: url(https://raw.githubusercontent.com/simoniyumi/netflix-techmovies/master/img/capa-exmachina.jpg), linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%);
     margin-bottom: 20px;
     height:400px;
     background-size:cover;
