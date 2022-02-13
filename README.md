@@ -8,4 +8,4 @@ Structuring a layout, CSS3 techniques with containers and variables, positioning
 https://simoniyumi.github.io/netflix-techmovies/
 
 ## Desktop view 
-![Screenshot Desktop](https://raw.githubusercontent.com/simoniyumi/netflix-techmovies/master/img/screen.JPG)
+![Screenshot Desktop](https://raw.githubusercontent.com/simoniyumi/netflix-techmovies/8aefcab00a42021c55f11e6458cd3bacd65fb373/img/screen.JPG)
